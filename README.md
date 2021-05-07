@@ -34,4 +34,6 @@ the following project was created in an effort to meet the following criteria:
 
 multiple variables were created with connections to functions that contained FOR loops as well as IF ELSE statements to allow more specific circumstances for the users convenience. the following code will allow various passwords to be generated based off of specific parameters provided by the user. 
 
-![password project](https://user-images.githubusercontent.com/79546270/117407135-fc9d7c80-aec2-11eb-898c-9ca6d46e68bd.JPG)
+![password project](https://user-images.githubusercontent.com/79546270/117407135-fc9d7c80-aec2-11eb-898c-9ca6d46e68bd.JPG) snapshot of page described.
+
+https://frostquill.github.io/password/ - link to desired page. 
